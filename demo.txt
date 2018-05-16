@@ -1,5 +1,6 @@
 class demo{
 	public void main(String[] args){
-		System.out.println("Firest Version");
+		System.out.println("First Version");
+		System.out.println("Second Version");
 }
 }
