@@ -3,6 +3,5 @@ class demo{
 		System.out.println("First Version");
 		System.out.println("Second Version");
 		System.out.println("Third Version");
-		System.out.println("Last Version");
 }
 }
